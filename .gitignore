@@ -1,0 +1,18 @@
+# Dependências do Node.js
+node_modules/
+ 
+# Logs
+logs/
+*.log
+
+# Ambientes
+.env
+
+# Build Output
+.next/
+out/
+dist/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
